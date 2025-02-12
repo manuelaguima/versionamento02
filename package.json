@@ -1,0 +1,23 @@
+{
+  "name": "versionamento02",
+  "version": "0.0.1",
+  "description": "teste de versionamento 02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelaguima/versionamento02.git"
+  },
+  "keywords": [
+    "node.js",
+    "javascript"
+  ],
+  "author": "Manuela Guimarães",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelaguima/versionamento02/issues"
+  },
+  "homepage": "https://github.com/manuelaguima/versionamento02#readme"
+}
